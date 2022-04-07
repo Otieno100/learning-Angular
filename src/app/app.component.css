@@ -1,0 +1,16 @@
+h1{
+
+    color: crimson;
+    margin-top: 3cm;
+    border :solid red;
+    align-items: center;
+    display: flex;
+    text-align: center;
+}
+
+.dis{
+
+    border: solid red;
+    display: flex;
+    justify-content: center;
+}
