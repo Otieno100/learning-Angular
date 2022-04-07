@@ -6,7 +6,7 @@ import { Goal } from './goal';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = ' My goal';
+  title = ' My goal-tracker';
   goal = "Watch Finding Nemo"
 
   // export class AppComponent {
